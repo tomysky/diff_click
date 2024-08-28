@@ -1,0 +1,82 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "points": [
+        [
+          30.804597701149383,
+          55.14367816091962
+        ],
+        [
+          95.4022988505742,
+          112.15517241379288
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "target",
+      "points": [
+        [
+          185.97701149425302,
+          82.04022988505753
+        ],
+        [
+          252.87356321839255,
+          140.4310344827584
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "target",
+      "points": [
+        [
+          107.81609195402305,
+          52.155172413793224
+        ],
+        [
+          180.00000000000003,
+          108.70689655172414
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "target",
+      "points": [
+        [
+          184.59770114942526,
+          15.143678160919535
+        ],
+        [
+          255.63218390804593,
+          73.07471264367817
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images2\\124.png",
+  "imageData": null,
+  "imageHeight": 165,
+  "imageWidth": 380
+}
